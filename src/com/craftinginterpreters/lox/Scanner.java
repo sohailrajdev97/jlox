@@ -47,7 +47,7 @@ public class Scanner {
                     tokens.add(new Token(TokenType.SEMICOLON, ";", null, currentLine));
                     break;
                 case '*':
-                    tokens.add(new Token(TokenType.ASTERIX, "*", null, currentLine));
+                    tokens.add(new Token(TokenType.STAR, "*", null, currentLine));
                     break;
 
                 case '!': {
