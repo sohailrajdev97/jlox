@@ -1,10 +1,10 @@
-package com.craftinginterpreters.sohailrajdev97.lox;
+package com.craftinginterpreters.lox;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import static com.craftinginterpreters.sohailrajdev97.lox.TokenType.*;
+import static com.craftinginterpreters.lox.TokenType.*;
 
 class Parser {
     private static class ParseError extends RuntimeException {

@@ -1,4 +1,4 @@
-package com.craftinginterpreters.sohailrajdev97.lox;
+package com.craftinginterpreters.lox;
 
 abstract class Expr {
     interface Visitor<R> {

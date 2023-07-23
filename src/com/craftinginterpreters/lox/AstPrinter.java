@@ -1,4 +1,4 @@
-package com.craftinginterpreters.sohailrajdev97.lox;
+package com.craftinginterpreters.lox;
 
 // AstPrinter: An ugly string representation of AST nodes
 // Note that this is only covered partially in the book, so other parts are taken from Github

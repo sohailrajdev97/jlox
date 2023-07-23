@@ -1,4 +1,4 @@
-package com.craftinginterpreters.sohailrajdev97.lox;
+package com.craftinginterpreters.lox;
 
 enum TokenType {
     // Separators and punctuation tokens.
